@@ -1,6 +1,5 @@
 import math
 from random import random
-from sre_constants import SUCCESS
 
 def are_coprime(a,b):
     if math.gcd(a,b)==1:
