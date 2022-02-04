@@ -11,4 +11,4 @@ def iterations(word):
     
     return result              
 s = 'ABC'
-print(iterations(s)+ iterations(s.lower()))
+print(iterations(s))
